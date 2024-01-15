@@ -1,6 +1,6 @@
 <img width="30px" margin="0px" src="./icons/Hi.gif">
 
-<h1 align="left" id="utsavdesai-title">Hello, I'm <a href="https://github.com/UtsavDesai26/UtsavDesai26">Utsav Desai</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
+<h1 align="left" id="utsavdesai-title">Hello, I'm <a href="https://github.com/UtsavDesai26">Utsav Desai</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 
 <p align="left">
   <a href="https://github.com/UtsavSoftrefineTech">
